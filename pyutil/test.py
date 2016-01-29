@@ -8,6 +8,7 @@ def main():
     print(os.pathsep)
     print(os.curdir)
     print(os.pardir)
+    
 
 
 if __name__ == '__main__':
